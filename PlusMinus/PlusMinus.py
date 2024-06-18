@@ -1,12 +1,5 @@
 #!/bin/python3
 
-import math
-import os
-import random
-import re
-import sys
-
-
 def plusMinus(arr):
     """
     Calculate the ratios of positive, negative and zero values in the given array.
